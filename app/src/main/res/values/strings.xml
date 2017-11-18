@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BuzzfeedQuiz</string>
+    <string name="firstquizz">can you remember what you see</string>
+    <string name="takequizz1">Start</string>
+    <string name="secondquizz">guess your age</string>
+    <string name="takequizz2">Start</string>
+    <string name="title_activity_quizitemview">quizitemview</string>
+    <string name="title_activity_movie__itemview">movie_Itemview</string>
+    <string name="title_activity_book">bookActivity</string>
+</resources>
